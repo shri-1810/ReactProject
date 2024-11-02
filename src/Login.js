@@ -1,6 +1,10 @@
 const Login=()=>{
     return(
-        <h1>abcd</h1>
+        <div>
+            <h1>abcd</h1>
+            <h2>my name is shrishty</h2>
+        </div>
+        
     )
 }
 
