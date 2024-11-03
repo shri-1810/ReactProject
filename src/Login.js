@@ -1,10 +1,10 @@
-const Login=()=>{
+let Login=()=>{
     return(
-        <div>
-            <h1>abcd</h1>
-            <h2>my name is shrishty</h2>
-        </div>
-        
+        <>
+            <h2>my name is Shrishty</h2>
+        </> 
     )
 }
+export default Login;
+
 
