@@ -1,7 +1,7 @@
 const Login=()=>{
     return(
         <>
-    <h2 className='bg-green-400'>my name is Shrishty</h2>
+    <h2 className='bg-blue-400'>My name is Shrishty</h2>
         </> 
     )
 }
